@@ -1,0 +1,9 @@
+name: IDGenerator
+version: '${project.version}'
+main: me.fortibrine.idgenerator.Main
+api-version: 1.13
+
+commands:
+  id:
+    description: "Команда для получение своего индентификатора"
+    usage: "/id"

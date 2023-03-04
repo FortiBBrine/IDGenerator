@@ -1,0 +1,4 @@
+command:
+  result: "Ваш ID: %id"
+  console_result: "Ваш ID: 0"
+  start: 0
